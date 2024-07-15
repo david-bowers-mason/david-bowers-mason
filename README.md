@@ -1,4 +1,5 @@
 ## Kia ora, I'm David 👋
+Some things about me:
 
 🎓 Just graduated from Dev Academy Aotearoa
 
