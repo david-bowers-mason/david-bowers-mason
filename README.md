@@ -3,7 +3,7 @@ Some things about me:
 
 🎓 Just graduated from Dev Academy Aotearoa
 
-🌐 Full-stack developer. It's a change that I've only made just this year (2024), and I'm super excited about what's in store. Let's create things!
+🌐 I'm a full-stack developer. It's a change that I've only made just this year (2024), and I'm super excited about what's in store. Let's create things!
 
 🗣️ I'm a big talker. I used to be afraid that this would negatively impact how people would perceive me, but now I see it as a huge strength. If there's a problem, I'll verbally turn it over until I see a solution. If there's a new face at work, I'll strike up a conversation. Talking works wonders.
 
